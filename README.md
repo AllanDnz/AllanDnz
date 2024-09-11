@@ -1,73 +1,57 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7619b0&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8229ba&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Allan+Cristhian;I'm+24+years+old;I+am+from+João+Pessoa,+PB;I'm+a+undergraduate+computer+engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<h1 align="center"><b>Ola, eu sou o Allan Cristhian</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AllanDnz&show_icons=true&count_private=true&hide_border=true&title_color=8229ba&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Allan Cristhian github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDnz&layout=compact&hide_border=true&title_color=8229ba&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-<p align="center"> 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Seja+bem+vindo(a)+...;++;Desenvolvedor+Front-End+Junior,;Estudante+de+Engenharia+da+Computação,;Apaixonado+por+Tecnologia."></a>
-</p>
-
-
-<br>
-
-<picture> <img align="right" src="https://media.giphy.com/media/wXTlDKOY0dFSfWU5cS/giphy.gif" width = 250px></picture>
-
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AllanDnz&bg_color=000000&color=8229ba&line=c056f5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-
-- **Linguagens**:
-    
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-	
-- **Hosting**:
-	
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)    
-<br>
-	
-- **Front-end e Back-end**:
-
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white)
-   ![Node](https://img.shields.io/badge/-NodeJs-green?style=for-the-badge&logo=nodejs&logoColor=black)
-    
-<br>
-
-- **Ferramentas**:
-
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
+  <img src="https://github-profile-trophy.vercel.app/?username=AllanDnz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<div align="center">  
+<a href="https://www.instagram.com/allandnz.js" target="_blank"><img width="60px" height="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg"/></a>
+<a href="https://www.linkedin.com/in/allancristhian/" target="_blank"><img width="60px" height="60px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" /></a>
+</div> 
  
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estatísticas Github</b>
-	
-<div>
-   <a href="https://github.com/AllanDnz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanDnz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanDnz&layout=compact&langs_count=6&theme=synthwave"/>
+### Main skills:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 
-</div>
-	
- <br>
-	
- ## <b> Redes Sociais, entre em contato!!</b><img src="https://media.giphy.com/media/HZrcDzLQuQu7OHXNhP/giphy.gif" width ="80">
  
-<div> 
-  <a href="https://instagram.com/allandnz.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "allancristhianjpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/allancristhian/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### Tools:
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
-  ![Snake animation](https://github.com/AllanDnz/AllanDnz/blob/output/github-contribution-grid-snake.svg)
+### Other Knowledge:
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Dcoker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-</div>
+### Studying in this moment:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Postgresql](https://img.shields.io/badge/-Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&textColor=0D1117)&nbsp;
+![GO](https://img.shields.io/badge/-Go-0D1117?style=for-the-badge&logo=go&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AllanDnz}/count.svg" /></p> 
+<br></div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7619b0&height=120&section=footer"/>
+
